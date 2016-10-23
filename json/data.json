@@ -1,0 +1,17 @@
+[
+	{
+		"destination":"label",
+		"label": "url",
+		"tags":[ "tag" ]
+	},
+	{
+		"destination":"label2",
+		"label": "url2",
+		"tags":[ "tag2" ]
+	},
+	{
+		"destination":"label3",
+		"label": "url3",
+		"tags":[ "tag3" ]
+	}
+]
